@@ -1320,14 +1320,14 @@ bottom: 65px;
 
 .logo-footer {
     width: 250px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 .logo-footer img{
     width: 100%;
 }
 footer.main-footer .widgets-section {
     padding-top: 60px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     
 }
 .widget {
@@ -1348,7 +1348,7 @@ footer.main-footer .widgets-section {
     
     font-weight: 700;
   
-    margin-bottom: 25px;
+    margin: 25px 0;
   
     transition: .5s;
 }
